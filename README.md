@@ -32,7 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hishitagupta&show_icons=true&theme=highcontrast&locale=en" alt="hishitagupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hishitagupta&theme=highcontrast" alt="hishitagupta" /></p>
+<img src="https://raw.githubusercontent.com/hishitagupta/hishitagupta/output/snake.svg" alt="Snake animation" />
 
+###
 
 
 
