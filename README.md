@@ -32,11 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hishitagupta&show_icons=true&theme=highcontrast&locale=en" alt="hishitagupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hishitagupta&theme=highcontrast" alt="hishitagupta" /></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hishitagupta/hishitagupta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hishitagupta/hishitagupta/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+
 
 <h1 align='center'>⚡️Stay awesome!⚡️</h1>
 
