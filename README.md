@@ -1,7 +1,7 @@
 <p align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=200&color=EEF700&center=true&vCenter=true&random=false&width=1000&lines=Hi+%2C+I+am+Hishita+Gupta;A+Passionate+Web+Developer" alt="Typing SVG" /></a>
 </p>
-<br>
+
 <p align="center"><img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif? raw=true"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hishitagupta&label=Profile%20views&color=ff47b2&style=plastic" alt="hishitagupta" /> </p>
