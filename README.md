@@ -20,66 +20,13 @@ C · C++ · Python · JavaScript · SQL
 React · Node.js · Express.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Redux · Context API · React Router · EJS · Material-UI  
 
 **AI, ML, and Data**  
-TensorFlow · PyTorch · Keras · NumPy · OpenCV  
+TensorFlow · PyTorch · Keras · NumPy · OpenCV · Langgraph · Langchain · Langsmith · RAG 
 
 **Databases & Cloud**  
-MongoDB · Firebase · Firestore · Cloudinary  
+MongoDB · Firebase · Firestore · Cloudinary · Chroma DB · Pinecone  
 
 **Tools & Platforms**  
 Git · GitHub · Docker · Vercel · Netlify · WordPress  
-
----
-
-## Featured Projects
-
-### 1. [NGO Management System](https://ngo-managment-system-main.vercel.app)  
-Domain: Full Stack  
-Tech Stack: MERN (Express, MongoDB, React, Node.js), Firebase, EJS, Razorpay API  
-
-Built a full-stack NGO management platform enabling NGOs to efficiently handle:  
-- Volunteer and team onboarding with certification management  
-- Donation tracking (cash via Razorpay & in-kind)  
-- Dynamic admin panel for projects, urgent fund requests, and donation approvals  
-- Blood donor tracking with automated certificate generation  
-
-Impact: Reduced manual workload by 60% and improved operational efficiency.  
-
----
-
-### 2. [Loan Management System](https://digitalfinserv.in/)  
-Domain: Full Stack  
-Tech Stack: React, Node.js, Express, MongoDB, Material-UI, NodeMailer, PDFKit  
-
-Developed and deployed a loan management system with:  
-- Real-time EMI calculations  
-- Automated email workflows and dynamic PDF generation  
-- Responsive admin dashboard for loan tracking and approvals  
-
-Impact: Streamlined loan processing by 40% and reduced manual effort by 50%.  
-
----
-
-### 3. [AURA.ai – Text to Video SaaS](https://aura-ai-frontend.vercel.app)  
-Domain: Gen AI  
-Tech Stack: Python, Flask, Gemini API, React, Express  
-
-An AI-powered SaaS platform that converts text inputs (docs, PDFs, brochures) into videos.  
-Key features include:  
-- Summarization, multilingual voice-over, accessibility support (sign language, AR/VR, voice navigation)  
-- Interactive quizzes and analytics dashboard to track engagement, retention, and comprehension  
-
-Impact: Enhanced accessibility in education, corporate training, and HR assessments.  
-
----
-
-## Other Projects
-- [E-Commerce Platform](https://ecommerce-website-main-client.vercel.app) – Full-featured store with Razorpay integration.  
-- [CodeSphereX](https://codespherex.com) – Dropservice platform for web and mobile solutions.  
-- [Book Your Ride](https://uber-clone-client.vercel.app) – Uber-like ride-hailing app with real-time ride assignment.  
-- [Google Drive Clone](https://github.com/HishitaGupta/Drive) – File upload/download system with Firebase storage.  
-- [3D Portfolio 2.0](https://hishitaguptatech.vercel.app/) – Interactive 3D personal portfolio using Three.js & R3F.  
-- [Musafir Tribe](https://www.musafirtribe.com) – Travel services platform with booking integrations.  
-- And more available in my repositories.  
 
 ---
 
